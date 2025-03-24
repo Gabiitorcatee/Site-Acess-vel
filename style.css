@@ -93,7 +93,7 @@ img {
 }
     
 :focus {
-    outline: 3px solid #003366;
+    outline: 3px solid #ffffff;
 }
     
 @media (max-width: 600px) {
